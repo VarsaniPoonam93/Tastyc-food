@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-page-bg {
+    background-image: url(img/about-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.abou-text {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    font-family: purplr purse;
+    color: #fff;
+}
+
+.about-para {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: poppins;
+    color: #E57208;
+    text-align: center;
+}
+
+
+
+.welcome-tastyc {
+    font-size: 48px;
+    color: #E57208;
+    font-weight: 400;
+    font-family: Pinyon Script;
+    padding-top: 70px;
+}
+
+.modern-text {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: purple purse;
+}
+
+.grilled {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: PT Sans Caption;
+    color: black;
+}
+
+.see-our-btn {
+    padding: 10px 20px;
+    background-color: #E57208;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 400;
+    font-family: purple purse;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn-see-our {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.break-fast {
+    font-size: 32px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #E57208;
+}
+
+.sed-para {
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: PT Sans Caption;
+    color: black;
+}
+
+.best-services-sec-bg {
+    background-image: url(img/best-services.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none !important;
+    margin: 40px 0;
+}
+
+.best-servi-text {
+    height: 600px;
+    position: relative;
+
+}
+
+.best-servi-text h5 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-weight: 400;
+    font-size: 64px;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: PT Sans Caption;
+
+
+}
+
+.best-servi-text p {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    /* letter-spacing: 2px; */
+    font-family: PT Sans Caption;
+}
+
+.staff-sec {
+    padding-bottom: 70px;
+}
+
+.staff-text {
+    text-align: center;
+    /* font-size: 30; */
+    font-weight: 400;
+    font-family: PT Sans Caption;
+    letter-spacing: 3px;
+
+}
+
+.expe-text {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: purple purse;
+    text-align: center;
+}
+
+.feature-sec-bg {
+    background-image: url(img/our-feature.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-bottom: 140px;
+
+
+}
+
+.featur-text h5 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: PT Sans Caption;
+}
+
+.featur-text h6 {
+    font-size: 48px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #fff;
+    text-align: center;
+}
+
+.services-posi {
+    position: absolute;
+    top: 60%;
+    left: 15%;
+}
+
+.posi-sticy {
+    position: sticky;
+    top: 0;
+    display: block;
+}
+
+.bg-none {
+    width: 300px;
+    padding: 20px 0;
+}
+.hover-chef-img{
+  bottom: -280%;
+  left: 15%;
+  color: #E57208;
+  display: none;
+ }
+:hover +.hover-chef-img {
+    display: block;
+   }
+   .hover-chef-2{
+    bottom: -280%;
+    left: 45%;
+    color: #E57208;
+    display: none;
+   }
+     :hover +.hover-chef-2{
+     display: block;
+   }
+  .hover-chef-3{
+    bottom: -280%;
+    left: 75%;
+    color: #E57208;
+    display: none;
+   }
+   :hover +.hover-chef-3{
+    display: block;
+  }
+  .hover-bgc:hover{
+    width: 100%;
+  }
+ 
