@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu-page-bg {
+    background-image: url(img/Frame\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.menu-phone a {
+    color: #E57208 !important;
+    font-size: 48px;
+    font-family: 'Rasa', serif;
+    font-weight: 600;
+    line-height: 58.46px;
+    line-height: 60px;
+    font-weight: 400;
+}
+
+.menu-page-text h1 {
+    text-align: center;
+    color: #ffff;
+    font-size: 48px;
+    font-family: purple purse;
+    line-height: 60px;
+    font-weight: 400;
+    padding-top: 32px;
+
+}
+
+.menu-page-text p {
+    text-align: center;
+    font-size: 24px;
+    color: #E57208;
+    font-family: Poppins;
+    font-weight: 400;
+    padding-bottom: 32px;
+}
+
+.best-food-menu p {
+    text-align: center;
+}
+
+.best-food-menu {
+    position: absolute;
+    bottom: 58%;
+    left: 14%;
+}
+
+.best-food-menu p {
+    font-size: 75px;
+    font-weight: 400;
+    font-family: 'Pinyon Script';
+    color: #E57208;
+}
+
+.best-food-menu h6 {
+    font-size: 48px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #000;
+    text-align: center;
+
+}
+
+.menu-img {
+    bottom: 43%;
+    left: 7%;
+}
+
+.pading-right {
+    padding-top: 50px;
+}
+
+.card-img-text {
+    position: absolute;
+top: 144%;
+    left: 13%;
+}
+
+.beef-burger {
+    font-size: 20px;
+    font-family: purple purse;
+    font-weight: 600;
+    color: #000000;
+}
+
+.beef-burger:hover {
+    color: #E57208;
+}
+
+.menu-btn {
+    background-color: #E57208;
+    color: #ffff;
+    border: none;
+    padding: 0px 20px;
+}
+
+.menu-para {
+    font-size: 14px;
+    color: #000000;
+    font-weight: 500;
+    font-family: Poppins;
+}
+
+/*------ PAY FOR ONE GET TWO SECTION START----- */
+.pay-sec-bg {
+    background-image: url(img/home-bg-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pay-text {
+padding: 130px 0;
+}
+
+.pay-text h1 {
+    font-size: 96px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #ffff;
+}
+
+.pay-text p {
+    font-size: 24px;
+    font-weight: 400;
+    color: #E57208;
+    font-family: purple purse;
+}
+
+.getnow-btn {
+    padding: 15px 60px;
+    background-color: #E57208;
+    color: #ffff;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: purple purse;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.reservation {
+    font-size: 32px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #ffff;
+    margin-left: 14px;
+}
+/* ----Booking Table section start --- */
+.booking-tab-bg{
+background-image: url(img/menu-bg-3.jpg);
+background-repeat: no-repeat;
+background-size:100%;
+padding: 90px 0;
+position: relative;
+}
+.our-gallary{
+    font-family: pinyon script;
+    font-size: 96px;
+    font-weight: 400;
+    color: #E57208;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+.book-text{
+    font-size: 64px;
+    font-family: pinyon Script;
+    font-weight: 400;
+    color: #E57208;
+    text-align: center;
+}
+.reservation-text{
+    font-size: 48px;
+    font-family: purple purse;
+    color: #ffff;
+    text-align: center;
+    
+}
+.bo-radi{
+border-radius: 3px;
+border: none;
+padding: 10px 0px;
+padding-left: 20px;
+font-family: purple purse; 
+font-size: 24px;
+}
+.bo-radius{
+border-radius: 3px;
+border: none;
+padding-top: 10px; 
+padding-bottom: 10px;
+padding-right: 320px;
+padding-left: 20px;
+font-family: purple purse; 
+font-size: 24px;
+}
+.bor-radi{
+border-radius: 3px;
+border: none;
+font-family: purple purse; 
+font-size: 24px;
+padding-left: 20px;
+}
+.form-btn{
+ padding: 15px 20px;
+ border-radius:5px;
+ border: none;
+ background-color: #E57208;
+ color: #ffff;
+ font-family: purple purse;
+ font-weight: 400;
+ font-size: 32px;
+}
+.book-table{
+    position: absolute;
+    bottom: 30%;
+    left: 40px;
+}
+.menu-posi{
+    position: absolute;
+    right: 45%;
+    top: -50px;
+}
+.menu-posi2{
+    position: absolute;
+    right: 45%;
+   top: -20px;
+}
+.menu-dotes{
+    position: absolute;
+    bottom: 97%;
+    left: 50%;
+}
