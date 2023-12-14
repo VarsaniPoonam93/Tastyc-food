@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blog-text {
+    padding: 50px 0;
+}
+
+.blog-text h5 {
+    font-size: 48px;
+    font-weight: 400;
+    font-family: purple purse;
+    color: #fff;
+}
+
+.blog-text p {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #E57208;
+    padding: 10px 0;
+}
+
+.newsletter-blog-text h5 {
+    font-family: Pinyon Script;
+    font-weight: 400;
+    font-size: 48px;
+    color: #E57208;
+    text-align: center;
+}
+
+.newsletter-blog-text h4 {
+    font-weight: 400;
+    font-size: 48px;
+    font-family: purple purse;
+    color: black;
+    text-align: center;
+}
+
+.newsletter-blog-text p {
+    font-family: 24px;
+    font-weight: 400;
+    color: #E57208;
+    text-align: center;
+    font-family: Poppins;
+}
+
+.newsletter-blog-text {
+    position: absolute;
+    bottom: 79%;
+    left: 38%;
+}
+
+.blog-img {
+    position: absolute;
+    bottom: 44%;
+    left: 6%;
+}
+
+.card {
+    --bs-card-spacer-x: 0rem !important;
+}
+
+.vector-43 {
+    position: absolute;
+    bottom: -48%;
+    left: 100px;
+}
+
+.card-text-blog {
+    font-size: 36px;
+    font-weight: 400;
+    font-family: purple purse;
+}
+
+.blog-text-p {
+    font-size: 20px;
+    font-family: PT Sans Caption;
+    font-weight: 400;
+}
+
+.blog-btn {
+    border: none;
+    border-radius: 20px;
+    padding: 3px 10px;
+}
+
+.viktoria {
+    font-size: 15px;
+    font-family: PT Sans Caption;
+    font-weight: 400;
+}
+
+.blog-img-2 {
+    position: absolute;
+    bottom: -111%;
+    left: 12%;
+}
+
+.bgc {
+    background-color: #fff;
+}
+
+.hover:hover {
+    border: 1px solid red;
+
+}
+
+/* hover */
+.img-hover {
+    opacity: 0;
+    position: absolute;
+    place-content: center;
+     top: 0;
+    left: 0;
+    bottom:220px;
+    right: 100px;
+    background-color: rgb(30 30 30 / 50%);
+    transition: all 400ms ease;
+    border-radius: 20px;
+
+}
+
+.socil-search {
+    text-align: center;
+    position: absolute;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+   top: 50%;
+   left: 50%;
+    width: 130px;
+    height: 40px;
+    border: 2px solid #fff;
+  
+}
+
+.socil-search h6 {
+    color: #fff;
+    /* font-size: 20px; */
+}
+.teamHover:hover .img-hover {
+    opacity: 1;
+    
+}
+.blog-posi1{
+    position: absolute;
+right: 44%;
+top: -60px;
+
+}
+.blog-posi2{
+    position: absolute;
+right: 44%;
+top: -25px;
+}
+.blog-posi-dotes{
+    position: absolute;
+    bottom: 97%;
+    left: 50.90%;
+}
